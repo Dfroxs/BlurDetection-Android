@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Blur Detection"
 include(":app")
+include(":blur_detection")
